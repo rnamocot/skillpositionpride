@@ -22,17 +22,35 @@ a , a:hover{
 }
 .nav-phone{
     float: right;
-    color: #FFFF00;
-    font-weight: bold;
+    color: #000000;
+    font-weight: 8s00;
+    font-size: 15px;
+}
+.nav-contacts-col{
+    margin-right: 8px;
+    float: right;
+}
+.nav-contacts-sec {
+    background: #fff;
+}
+
+.fa-solid {
+    color: #106F18;
+    margin-right: 8px;
+    font-size: 17px;
+}
+.fa-facebook{
+    color: #1773EA;
+    font-size: 20px;
+    background-color: #fff;
+    border-radius: 50%;
 }
 .nav-phone:hover{
-    float: right;
-    color: #f5f581;
+    color: #54e260;
     font-weight: bold;
 }
 .nav-contacts-col{
     color: #fff;
-    margin-bottom: -20px;
 }
 .nav-contacts-col a{
     margin: 10px;

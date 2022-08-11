@@ -1,0 +1,32 @@
+.banner-sec{
+    padding: 150px 0px;
+    background:linear-gradient(0deg, rgba(12, 10, 11, 0.884), rgba(36, 240, 36, 0.3)), url(../images/banner2.jpg);
+    background-size: cover;
+    background-position:bottom;
+}
+.banner-col-1 h1 {
+    font-size: 60px;
+    color: #fffd40;
+    font-weight: bold;
+}
+.banner-subheading{
+    margin-top: 50px;
+}
+.banner-col-1 p {
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+}
+.banner-col-1 h2 {
+    font-size: 50px;
+    color: #fff;
+    font-weight: bold;
+}
+.banner-col-2{
+    text-align: end;
+}
+.banner-col-2 img{
+width: auto;
+height: 400px;
+}
