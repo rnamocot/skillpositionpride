@@ -7,6 +7,9 @@ body{
 a , a:hover{
     text-decoration: none;
 }
+p{
+    letter-spacing: 1px;
+}
 .sitelogo {
     width:auto;
     height: 120px;
